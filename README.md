@@ -1,13 +1,8 @@
 # Giả lập Thí nghiệm Vật lý Đại cương II (HUST)
 
-![Screenshot](https://github.com/user-attachments/assets/015b7b42-0c78-4422-ba7f-eaa63dbba483)
-
 ## 📖 Giới thiệu
 
-Phần mềm mô phỏng giúp làm quen và luyện tập thao tác mắc mạch điện của học phần Vật lý đại cương II. 
-* **Số lượng bài:** 5 bài thí nghiệm (mình không làm bài 3)
-* **Đặc điểm:** Mỗi bài đi kèm với bộ dụng cụ và hướng dẫn riêng biệt.
-* **Cơ chế:** Đáp án và logic mạch được xây dựng dựa trên các mạch chuẩn của nhóm mình.
+Phần mềm mô phỏng giúp làm quen và luyện tập thao tác mắc mạch điện của học phần Vật lý đại cương II gồm 5 bài thí nghiệm (mình không làm bài 3). Mỗi bài đi kèm với bộ dụng cụ và hướng dẫn riêng biệt. Đáp án và logic mạch được xây dựng dựa trên các mạch chuẩn của nhóm mình.
 
 ## ⬇️ Cài đặt và Chạy chương trình
 
@@ -17,6 +12,8 @@ Phần mềm mô phỏng giúp làm quen và luyện tập thao tác mắc mạc
 4.  Ấn nút **Hướng dẫn** để biết thêm chi tiết:)))
 
 ## 🎮 Hướng dẫn sử dụng
+
+![Screenshot](https://github.com/user-attachments/assets/015b7b42-0c78-4422-ba7f-eaa63dbba483)
 
 ### 1. Các chức năng chính (Giao diện)
 
