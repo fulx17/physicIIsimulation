@@ -1,7 +1,42 @@
-Đây là phần mềm giúp luyện tập mắc mạch cho môn vật lí đại cương II của HUST
+# Giả lập Thí nghiệm Vật lý Đại cương II (HUST)
 
-Để sử dụng mọi người ấn vào file "PhysicIISimulation.exe" rồi ấn vào hình mũi tên (download raw file) ở góc phải để tải về máy và sử dụng nha 
+![Screenshot](https://github.com/user-attachments/assets/015b7b42-0c78-4422-ba7f-eaa63dbba483)
 
-Nhớ ấn "Hướng dẫn" để biết thêm chi tiết nha:))
+## 📖 Giới thiệu
 
-<img width="2559" height="1529" alt="image" src="https://github.com/user-attachments/assets/015b7b42-0c78-4422-ba7f-eaa63dbba483" />
+Phần mềm mô phỏng giúp làm quen và luyện tập thao tác mắc mạch điện của học phần Vật lý đại cương II. 
+* **Số lượng bài:** 5 bài thí nghiệm (mình không làm bài 3)
+* **Đặc điểm:** Mỗi bài đi kèm với bộ dụng cụ và hướng dẫn riêng biệt.
+* **Cơ chế:** Đáp án và logic mạch được xây dựng dựa trên các mạch chuẩn của nhóm mình.
+
+## ⬇️ Cài đặt và Chạy chương trình
+
+1.  Tìm file `PhysicIISimulation.exe` trong danh sách file phía trên.
+2.  Nhấn vào nút **Download** (biểu tượng mũi tên trỏ xuống <kbd>↓</kbd> ở góc trên phải màn hình);
+3.  Sau khi tải xong, click đúp vào file `PhysicIISimulation.exe` để mở phần mềm.
+4.  Ấn nút **Hướng dẫn** để biết thêm chi tiết:)))
+
+## 🎮 Hướng dẫn sử dụng
+
+### 1. Các chức năng chính (Giao diện)
+
+| Nút chức năng | Mô tả |
+| :--- | :--- |
+| **Thêm dây** | Tạo ra một dây dẫn mới trên bàn thí nghiệm. |
+| **Kiểm tra 1, 2, 3** | Check xem mạch bạn mắc đã đúng chưa (Xem chi tiết ý nghĩa từng số trong mục "Chi tiết"). |
+| **Chi tiết** | Hiển thị hướng dẫn bài thí nghiệm và giải thích các chế độ kiểm tra. |
+| **Gợi ý** | Hỗ trợ khi bạn gặp khó khăn:<br>- **Dây màu xanh:** Đường dây nên nối (gợi ý đúng).<br>- **Dây màu đỏ:** Dây bạn đang nối sai, cần tháo ra. |
+
+### 2. Thao tác điều khiển (Chuột & Phím)
+
+Để thao tác nhanh và chính xác, hãy làm quen với các điều khiển sau:
+
+* **Kéo đồ vật:** Nhấn giữ chuột trái vào đồ vật -> Di đến vị trí mong muốn -> Thả chuột.
+* **Di chuyển bàn:** Nhấn giữ chuột trái vào khoảng trống -> Kéo để di chuyển góc nhìn.
+* **Phóng to/Thu nhỏ:** Sử dụng con lăn chuột (Scroll wheel).
+* **Cắm dây:** Kéo đầu giắc cắm của dây đến vị trí lỗ cắm -> Thả ra để kết nối.
+* **Tháo dây:** Kéo đầu giắc cắm ra khỏi lỗ cắm.
+* **Xóa dây:** Click chuột trái chọn dây -> Nhấn phím <kbd>Backspace</kbd> (hoặc <kbd>Delete</kbd>).
+
+---
+*Chúc các bạn pass thí nghiệm!* 🎓
