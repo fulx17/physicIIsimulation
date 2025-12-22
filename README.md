@@ -7,7 +7,7 @@ Phần mềm mô phỏng giúp làm quen và luyện tập thao tác mắc mạc
 ## ⬇️ Cài đặt và Chạy chương trình
 
 1.  Tìm và ấn vào file `PhysicIISimulation.exe` trong danh sách file phía trên.
-2.  Nhấn vào nút **Download** (biểu tượng mũi tên trỏ xuống <kbd>↓</kbd> ở góc trên phải màn hình);
+2.  Nhấn vào nút **Download raw file** (biểu tượng mũi tên trỏ xuống <kbd>↓</kbd> ở góc trên phải màn hình);
 3.  Sau khi tải xong, click đúp vào file `PhysicIISimulation.exe` để mở phần mềm.
 4.  Ấn nút **Hướng dẫn** để biết thêm chi tiết:)))
 
