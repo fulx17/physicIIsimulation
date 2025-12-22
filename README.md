@@ -2,7 +2,7 @@
 
 ## 📖 Giới thiệu
 
-Phần mềm mô phỏng giúp làm quen và luyện tập thao tác mắc mạch điện của học phần Vật lý đại cương II gồm 5 bài thí nghiệm (mình không làm bài 3). Mỗi bài đi kèm với bộ dụng cụ và hướng dẫn riêng biệt. Đáp án và logic mạch được xây dựng dựa trên các mạch chuẩn của nhóm mình.
+Phần mềm mô phỏng giúp làm quen và luyện tập thao tác mắc mạch điện của học phần Vật lý đại cương II gồm 5 bài thí nghiệm (mình không làm bài 3). Mỗi bài đi kèm với bộ dụng cụ và hướng dẫn riêng biệt. Đáp án và logic mạch được xây dựng dựa trên các mạch của nhóm mình.
 
 ## ⬇️ Cài đặt và Chạy chương trình
 
