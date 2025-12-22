@@ -11,6 +11,7 @@ Phần mềm mô phỏng giúp làm quen và luyện tập thao tác mắc mạc
 3.  Sau khi tải xong, click đúp vào file `PhysicIISimulation.exe` để mở phần mềm.
 4.  Ấn nút **Hướng dẫn** để biết thêm chi tiết:)))
 
+* File **PhysicIISimulation.exe** có thể hơi nặng vì cần bundle thêm JRE
 ## 🎮 Hướng dẫn sử dụng
 
 ![Screenshot](https://github.com/user-attachments/assets/015b7b42-0c78-4422-ba7f-eaa63dbba483)
