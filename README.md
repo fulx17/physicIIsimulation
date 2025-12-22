@@ -2,4 +2,6 @@
 
 Để sử dụng mọi người ấn vào file "PhysicIISimulation.exe" rồi ấn vào hình mũi tên (download raw file) ở góc phải để tải về máy và sử dụng nha 
 
+Nhớ ấn "Hướng dẫn" để biết thêm chi tiết nha:))
+
 <img width="2559" height="1529" alt="image" src="https://github.com/user-attachments/assets/015b7b42-0c78-4422-ba7f-eaa63dbba483" />
