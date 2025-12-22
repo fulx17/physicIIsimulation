@@ -23,7 +23,7 @@ Phần mềm mô phỏng giúp làm quen và luyện tập thao tác mắc mạc
 | **Thêm dây** | Tạo ra một dây dẫn mới trên bàn thí nghiệm. |
 | **Kiểm tra 1, 2, 3** | Check xem mạch bạn mắc đã đúng chưa (Xem chi tiết ý nghĩa từng số trong mục "Chi tiết"). |
 | **Chi tiết** | Hiển thị hướng dẫn bài thí nghiệm và giải thích các chế độ kiểm tra. |
-| **Gợi ý** | Hỗ trợ khi bạn gặp khó khăn:<br>- **Dây màu xanh:** Đường dây nên nối (gợi ý đúng).<br>- **Dây màu đỏ:** Dây bạn đang nối sai, cần tháo ra.<br>- Nhớ ấn nút **Kiểm tra ** của phần tương ứng trước khi ấn gợi ý |
+| **Gợi ý** | Hỗ trợ khi bạn gặp khó khăn:<br>- **Dây màu xanh:** Đường dây nên nối (gợi ý đúng).<br>- **Dây màu đỏ:** Dây bạn đang nối sai, cần tháo ra.<br>- Nhớ ấn nút **Kiểm tra** của phần tương ứng trước khi ấn gợi ý |
 
 ### 2. Thao tác điều khiển (Chuột & Phím)
 
