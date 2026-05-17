@@ -36,5 +36,7 @@ Phần mềm mô phỏng giúp làm quen và luyện tập thao tác mắc mạc
 * **Tháo dây:** Kéo đầu giắc cắm ra khỏi lỗ cắm.
 * **Xóa dây:** Click chuột trái chọn dây -> Nhấn phím <kbd>Backspace</kbd> (hoặc <kbd>Delete</kbd>).
 
+source: https://github.com/fulx17/physic-II-simulation
+
 ---
 *Chúc các bạn pass thí nghiệm!* 🎓
